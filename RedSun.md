@@ -1,10 +1,12 @@
 ---
-title: '환상 (Red Sun!)' 응원법 안내
+title: 환상 (Red Sun!) 응원법 안내
 author: BPM Ent.
 date: 22.08.11
 ---
 
-Link [https://www.youtube.com/watch?v=3v96sxKU2bI](https://www.youtube.com/watch?v=3v96sxKU2bI)
+* link: [https://www.youtube.com/watch?v=3v96sxKU2bI](https://www.youtube.com/watch?v=3v96sxKU2bI)
+
+---
 
 시간을 이만큼 달려왔는데 멈춰버린 이 기억들을 봐 너 무슨 짓을 한 거야
 
