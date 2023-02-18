@@ -29,6 +29,8 @@ title: VIVIZ應援
 
 ## 환상 (Red Sun!)
 
+[應援法](https://m.cafe.daum.net/VIVIZ/Xw4g/47?svc=cafeapp)
+
 # Summer Vibe
 
 ## LOVEADE
